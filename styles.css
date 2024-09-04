@@ -1,0 +1,21 @@
+body{
+color: black;
+background: grey;
+margin: 0px;
+font-family: "Bungee Tint", sans-serif;
+
+}
+
+header{
+border-bottom: solid 2px; 
+padding: 20px;
+font-size: 32px;
+color: aliceblue;
+}
+
+section{
+background: gray;
+
+
+
+}
